@@ -1,6 +1,11 @@
-# Game-Engine-Design---Assignment-3
-Game Description: Ninja Frog Runner is a 2d platformer that displays the story of Lorax in his training. Travelling from one level of training to the other.
+# GEDI3110 - Assignment 3
 
+---
+
+> ## INFR3110U - Game Engine Design and Implementation
+> ### Assignment 3
+
+Game Description: Ninja Frog Runner is a 2d platformer that displays the story of Lorax in his training. Travelling from one level of training to the other.
 
 Screenshots:
 ![alt text](https://cdn.discordapp.com/attachments/575110639299723264/906028162188722187/unknown.png)
